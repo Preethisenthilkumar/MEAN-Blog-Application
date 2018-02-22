@@ -1,0 +1,23 @@
+{
+  "name": "mean-blog",
+  "version": "1.0.0",
+  "description": "MEAN Stack Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preethisenthilkumar/MEAN-Blog-Application.git"
+  },
+  "author": "Preethi Senthil Kuar\u001b[D\u001b[Dmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Preethisenthilkumar/MEAN-Blog-Application/issues"
+  },
+  "homepage": "https://github.com/Preethisenthilkumar/MEAN-Blog-Application#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6"
+  }
+}
